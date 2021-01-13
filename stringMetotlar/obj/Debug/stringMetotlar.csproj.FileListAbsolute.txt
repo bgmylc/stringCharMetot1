@@ -1,0 +1,7 @@
+C:\Users\LENOVO\source\repos\stringMetotlar\stringMetotlar\bin\Debug\stringMetotlar_120121.exe.config
+C:\Users\LENOVO\source\repos\stringMetotlar\stringMetotlar\bin\Debug\stringMetotlar_120121.exe
+C:\Users\LENOVO\source\repos\stringMetotlar\stringMetotlar\bin\Debug\stringMetotlar_120121.pdb
+C:\Users\LENOVO\source\repos\stringMetotlar\stringMetotlar\obj\Debug\stringMetotlar.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\stringMetotlar\stringMetotlar\obj\Debug\stringMetotlar.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\stringMetotlar\stringMetotlar\obj\Debug\stringMetotlar_120121.exe
+C:\Users\LENOVO\source\repos\stringMetotlar\stringMetotlar\obj\Debug\stringMetotlar_120121.pdb
